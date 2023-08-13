@@ -1,6 +1,5 @@
 "use client";
-import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import React, { useEffect, useRef } from "react";
+import React from "react";
 
 type Props = {
   section: string;

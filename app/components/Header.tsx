@@ -1,5 +1,4 @@
 import React from "react";
-import { SocialIcon } from "react-social-icons";
 import Ui from "./Ui";
 import Icons from "./Icons";
 

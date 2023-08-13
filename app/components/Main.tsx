@@ -1,7 +1,6 @@
 import React from "react";
 import Cards from "./Cards";
 import Skills from "./Skills";
-import Resume from "./Resume";
 
 type Props = {};
 
