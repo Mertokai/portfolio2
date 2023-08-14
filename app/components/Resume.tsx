@@ -6,7 +6,7 @@ const Resume = (props: Props) => {
   return (
     <div className="group pt-16 flex items-center">
       <a
-        href="https://www.canva.com/design/DAFgMig5WWM/Zsd-lEyeKk91yTN3IeUB3Q/view"
+        href="https://www.canva.com/design/DAFrhF-jTsY/C7U2029noWkv2fnUQHc19Q/view"
         target="blank"
         className="text-slate-200 text-xl hover:underline decoration-teal-400"
       >
