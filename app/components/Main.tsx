@@ -6,7 +6,7 @@ type Props = {};
 
 const Main = (props: Props) => {
   return (
-    <div className="flex-col flex py-24 md:space-y-24 space-y-6">
+    <div className="flex-col flex py-12 md:space-y-24 space-y-6">
       <div className="text-[#94a3b8] md:text-xl text-base flex flex-col space-y-5 py-10">
         <div className="w-full">
           Hello, this is Mert, I am an
@@ -49,7 +49,7 @@ const Main = (props: Props) => {
           <Cards
             header="Instagram Clone"
             image="instagram.png"
-            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,g"
+            content="As a frontend developer, I proudly present my Instagram clone project. Meticulously crafted with a contemporary user interface and interactive elements. This project showcases my frontend skills, delivering an engaging social experience through visual shares, likes, and comments. Join me in exploring the world of my project with its user-friendly and captivating interface."
             lang="Framer Motion"
             lang1="Tailwind Css"
             lang2="Nextjs"
@@ -58,7 +58,7 @@ const Main = (props: Props) => {
           <Cards
             header="Genius Clone"
             image="genius.png"
-            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,g"
+            content="As a frontend developer, I'm thrilled to present my rendition of the Genius Music App. I've transformed an existing concept into a fully functional frontend masterpiece. Seamlessly weaving together lyrics and annotations, I've created an immersive user interface that resonates. Join me in exploring the harmonious fusion of my frontend expertise and musical passion."
             lang="Genius Api"
             lang1="Tailwind Css"
             lang2="Nextjs"
@@ -67,21 +67,21 @@ const Main = (props: Props) => {
           <Cards
             header="Landing Page"
             image="landingpage.png"
-            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,g"
+            content="Excited to share my take on a captivating landing page design sourced from Dribbble. This conceptual masterpiece blends aesthetics and functionality seamlessly. Through meticulous frontend craftsmanship, I've brought this vision to life. Explore the convergence of design and technology on this immersive landing page."
             lang="html"
             lang1="Css"
             lang2="Tailwind Css"
           />
           <Cards
-            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,g"
+            content="I've integrated a groundbreaking feature in my custom ChatGPT project the ability to convert text into speech. Elevating user interaction, this innovation lets text inputs come alive through vocal responses. Experience the seamless transition from text-based to auditory communication, adding a new dimension to my project. Explore the power of text-to-speech transformation."
             header="Chat gpt with speech"
             image="Chat.png"
-            lang="Genius Api"
+            lang="Whisper and OpenAI Api"
             lang1="Tailwind Css"
             lang2="Nextjs"
           />
           <Cards
-            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,g"
+            content="Introducing the Rick and Morty Search Engine, a project close to my heart. I've crafted a unique platform that allows fans to explore the vast universe of Rick and Morty effortlessly. With intuitive search functionality and curated content, users can dive deep into episodes, characters, and references. Join me in navigating the multiverse of entertainment"
             header="Rick and Morty Search App"
             image="Rick.png"
             lang="Rick and Morty Api"
@@ -89,7 +89,7 @@ const Main = (props: Props) => {
             lang2="React"
           />
           <Cards
-            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,g"
+            content="Presenting my meticulously designed Todo app, where organization meets simplicity. Seamlessly manage tasks, prioritize activities, and track progress with an intuitive interface. Through thoughtful frontend development, I've brought efficiency to your daily routine. Experience the power of streamlined task management and embark on a journey of productivity"
             header="Todo app"
             image="todo.png"
             lang="Tailwind Css"
@@ -97,15 +97,15 @@ const Main = (props: Props) => {
             lang2="Astrojs"
           />
           <Cards
-            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,g"
-            header="Wheater APp"
-            image="wh.jpg"
+            content="Discover the Weather App – a digital window to the world's forecast. Through meticulous frontend development, I've transformed complex data into a user-friendly interface. Seamlessly access real-time weather updates, forecasts, and more. Whether at home or abroad, this app ensures you're prepared for any climate. Explore meteorological insights and stay weather-wise."
+            header="Wheater App"
+            image="wheather.webp"
             lang="Accuaweather Api"
             lang1="Tailwind Css"
             lang2="Nextjs"
           />
           <Cards
-            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,g"
+            content="Introducing my Blog App, where creativity finds a digital canvas. With meticulous frontend development, I've crafted an engaging platform for sharing thoughts and stories. Seamlessly compose, publish, and interact with content in a user-friendly interface. Join me in creating a virtual space that fosters meaningful connections through the art of blogging."
             header="Blog App"
             image="blog.png"
             lang="Tailwind Css"
@@ -113,7 +113,7 @@ const Main = (props: Props) => {
             lang2="Nextjs"
           />
           <Cards
-            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,g"
+            content="Experience the classic game reimagined in my Rock Paper Scissors App. Through seamless frontend design, I've brought this timeless game to your fingertips. Engage in battles of strategy with a modern twist, enjoying the intuitive user interface. Challenge friends or test your luck against the computer. Dive into a world of interactive fun, mastering the age-old game."
             header="Rock Paper Scissors app"
             image="yeah.jpg"
             lang="Html"

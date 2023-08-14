@@ -6,7 +6,7 @@ type Props = {};
 
 const Header = (props: Props) => {
   return (
-    <header className="h-full lg:w-1/2 lg:py-24 md:space-y-4  space-y-9 md:sticky top-0 scroll-smooth items-center ">
+    <header className="h-full lg:w-1/2 lg:py-12 md:space-y-4 space-y-9 md:sticky top-0 scroll-smooth items-center ">
       <div className="flex flex-col space-y-5 pt-8">
         <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-6xl">
           <a href="/">Mert Eyüboğlu</a>

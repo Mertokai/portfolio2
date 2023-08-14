@@ -38,7 +38,7 @@ const Cards = ({ content, header, image, lang, lang1, lang2, link }: Props) => {
     >
       <a
         href={link}
-        className="group transition-all flex px-3 py-5  flex-col lg:flex-row w-full space-y-5 md:space-y-0 md:space-x-5 bg-opacity-0 hover:bg-opacity-50 bg-slate-800 rounded-lg hover:border-t border-slate-700"
+        className="group transition-all flex px-3 py-5  flex-col lg:flex-row w-full space-y-5 md:space-y-0 md:space-x-5 bg-opacity-0 hover:bg-opacity-50 bg-slate-800 rounded-lg border-t border-opacity-0 hover:border-opacity-100 border-slate-700"
       >
         <div className="md:w-[100.3px] md:h-[63.8875px] w-[200px] h-[113.9px] flex">
           <img
